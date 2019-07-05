@@ -1,0 +1,23 @@
+img{
+    width: 100%;
+
+}
+p{
+    
+    color: dimgray;
+}
+time{
+    width: 30%;
+    height: 20%;
+
+    text-align: center;
+    background-color: aliceblue;
+    border:3px inset azure;
+}
+submit{
+    width:20%
+}
+div{
+    float: left;
+
+}
