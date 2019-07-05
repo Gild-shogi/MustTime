@@ -2,8 +2,8 @@
 
 var noble = require('noble');
 
-var WX_SERVICE_UIID = '0c4c3000770046f4aa96d5e974e32a54';
-var WX2_NOWDATA_UUID = '0c4c3001770046f4aa96d5e974e32a54';
+var WX_SERVICE_UIID = 'YOUR_SERVICE_UIID';
+var WX2_NOWDATA_UUID = 'YOUR_NOWDATA_UTTD';
 
 noble.on('stateChange',function(state){
     console.log('on -> stateChange:' + state);
